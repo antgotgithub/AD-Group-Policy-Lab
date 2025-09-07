@@ -1,7 +1,0 @@
-Scripts for user creation and automation are inside the [Scripts folder](./Scripts).
-
-- **NewADUser.ps1** – Create a single new AD user interactively.
-- **UserCSV Read.ps1** – Bulk create AD users from a CSV file.
-- **Powershell-Command.ps1** – Bulk create AD users in a specific OU.
-- **NewUsers.csv** – Example CSV file for bulk import.
-- **Move-DisabledUsers.ps1** – Searches AD for disabled accounts and automatically moves them into the `Disabled Users` OU. Helps keep your environment clean and organized.
