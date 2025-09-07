@@ -1,6 +1,13 @@
 # AD-Group-Policy-Lab
-Lab Setup:
-  VirtualBox for Windows client vms and the DC for AD
-Network config:
-  Adapter One- Internal Network (To allows vms to communicate locally). 
-  Adapter Two- NAT Network (To connect to internet)
+This lab was built to practice:
+  - Setting up GPO's
+  - Managing users, groups and OU's
+  - Mapping shared drives for users 
+  - Understanding permission with a security ortiented approach
+  - Troubleshooting domain and networking issues
+  - Using powershell scripts to automate tasks
+
+Technology used:
+  Windows server VM 
+  Windows 10 client VM
+  Virtualbox
