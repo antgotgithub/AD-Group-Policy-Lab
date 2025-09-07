@@ -8,6 +8,6 @@ This lab was built to practice:
   - Using powershell scripts to automate tasks
 
 Technology used:
-  Windows server VM 
-  Windows 10 client VM
-  Virtualbox
+  - Windows server VM 
+  - Windows 10 client VM
+  - Virtualbox
