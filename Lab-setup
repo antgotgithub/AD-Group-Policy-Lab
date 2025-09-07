@@ -1,0 +1,13 @@
+VirtualBox Networking:
+- Adapter 1:** Domain adapter (set to static IP, e.g., `192.168.1.x`)
+- Adapter 2:** NAT (for internet access)
+- Adapter 3:** Host-only (VirtualBox internal network)
+
+
+Domain Setup:
+- Installed Active Directory Domain Services (ADDS).
+- Promoted server to Domain Controller for domain: **ANTDOMAIN.local**.
+
+
+ Joining Clients:
+- Joined Windows clients to **ANTDOMAIN.local.
